@@ -76,10 +76,10 @@ docker volume rm lab11-logs
 ### Zrzuty ekranu
 
 ## Uruchomione serwery
-![Uruchomione serwery - zrzut ekranu 1](screenshots/1.png)
+![Uruchomione serwery - zrzut ekranu 1](/lab11/screenshots/1.png)
 
 ## Uruchomione kontenery
-![Uruchomione kontenery - zrzut ekranu 2](screenshots/2.png)
+![Uruchomione kontenery - zrzut ekranu 2](/lab11/screenshots/2.png)
 
 ## Volumes
-![Volumes - zrzut ekranu 2](screenshots/3.png)
+![Volumes - zrzut ekranu 2](/lab11/screenshots/3.png)
